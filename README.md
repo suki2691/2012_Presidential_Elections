@@ -30,6 +30,7 @@ The main motivation behind many of the features were the common stereotypes of a
 - Identified each county for all the data tables using the county [FIPS code](https://www.census.gov/geo/reference/codes/cou.html)
 - Joined all the data tables on the FIPS code
 - Tried out a few classifiers to see which one accurately predicted the results. Gradient boosting algorithm won, with an accuracy of 88%
+- Visualized the election results and effect of important features using D3.js
 
 _Currently in the process of obtaining more attributes, feature engineering and improving model performance_
 
